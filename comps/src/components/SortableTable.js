@@ -28,7 +28,7 @@ function SortableTable(props) {
 }
 
 function getIcons(label, sortBy, sortOrder) {
-    if (label != sortBy) {
+    if (label !== sortBy) {
         return (
             <div>
                 <GoArrowSmallUp />
