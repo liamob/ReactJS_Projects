@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "id": "54a8",
+      "name": "Roderick Senger"
+    },
+    {
+      "id": "d5d1",
+      "name": "Catherine Wyman"
+    },
+    {
+      "id": "0454",
+      "name": "Claire Schmeler"
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
