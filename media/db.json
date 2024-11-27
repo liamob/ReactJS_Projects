@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
@@ -17,6 +17,48 @@
       "name": "Claire Schmeler"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": 1
+    },
+    {
+      "id": "ac5a",
+      "userId": "54a8",
+      "title": "Electronic Metal Mouse"
+    },
+    {
+      "id": "b4d0",
+      "userId": "1",
+      "title": "Modern Bronze Chips"
+    },
+    {
+      "id": "974b",
+      "userId": "1",
+      "title": "Oriental Steel Cheese"
+    }
+  ],
+  "photos": [
+    {
+      "id": "81ea",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=58758"
+    },
+    {
+      "id": "744a",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=30667"
+    },
+    {
+      "id": "4498",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=69615"
+    },
+    {
+      "id": "2e1c",
+      "albumId": "10",
+      "url": "https://loremflickr.com/150/150/abstract?lock=87650"
+    }
+  ]
 }
