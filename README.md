@@ -1,4 +1,4 @@
-<h5>Modern React with Redux[2024 update].</h5>
+<h2>Modern React with Redux[2024 update].</h2>
 
 Master React and Redux. Apply modern design patterns to build apps with React Router, TailwindCSS, Context, and Hooks!
 
